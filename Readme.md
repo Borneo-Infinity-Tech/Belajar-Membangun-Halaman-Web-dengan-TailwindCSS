@@ -10,10 +10,9 @@ Pada kelas ini kita akan belajar menggunakan framework CSS yaitu tailwindCSS unt
 
 1.  [Apa itu _utility-first framework?_](/course/001/utility-first-framework.md)
 2.  [Pengenalan TailwindCSS](/course/002/pengenalan-tailwindcss.md)
-3.  Perbedaan Tailwind CSS dengan CSS vanilla.
-4.  Kelebihan & kekurangan pendekatan utility-first.
+3.  [Perbedaan Tailwind CSS dengan CSS vanilla](/course/003/perbedaan-tailwind-vanila.md)
 
 **Instalasi dan Setup**
 
-1.  Menggunakan CDN (untuk pemula).
+1.  [Menggunakan CDN (untuk pemula)](/course/004/install-cdn.md)
 2.  Setup dengan Node.js + PostCSS.
