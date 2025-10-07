@@ -16,3 +16,12 @@ Pada kelas ini kita akan belajar menggunakan framework CSS yaitu tailwindCSS unt
 
 1.  [Menggunakan CDN (untuk pemula)](/course/004/install-cdn.md)
 2.  Setup dengan Node.js + PostCSS.
+
+**Dasar-Dasar** _**Utility**_
+
+1.  [Typography (font, text)](/course/006/typography.md)
+2.  [Spacing (margin, padding)](/course/007/spacing.md)
+3.  [Sizing (width, height)](/course/008/sizing.md)
+4.  Colors
+5.  Background
+6.  Border
